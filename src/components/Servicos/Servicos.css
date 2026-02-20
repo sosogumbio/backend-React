@@ -1,0 +1,34 @@
+.servicos {
+  padding: 2rem;
+  background: #f9f9f9;
+  text-align: center;
+}
+.servicos-list {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.servico {
+  background: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+.servicos {
+  padding: 2rem;
+  background: #f9f9f9;
+  text-align: center;
+}
+.servicos-list {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.servico {
+  background: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}

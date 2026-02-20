@@ -1,9 +1,11 @@
+import PHome from "./pages/PHome/PHome"
+
 function App() {
   return (
     <>
-      <p>Aula React - Pages</p>
+      <PHome />
     </>
   )
 }
 
-export default App
+export default App;
