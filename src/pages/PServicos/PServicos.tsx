@@ -1,5 +1,5 @@
 import Navegacao from "../../components/Navegacao/Navegacao";
-import Sobre from "../../components/Sobre/Sobre";
+import Servicos from "../../components/Servicos/Servicos";
 import Rodape from "../../components/Rodape/Rodape";
 
 
@@ -7,10 +7,10 @@ function PServicos () {
   return (
     <>
     <Navegacao />
-    <Sobre />
+    <Servicos />
     <Rodape />
     </>
   )
 }
 
-export default PServicos;
+export default PServicos; 
